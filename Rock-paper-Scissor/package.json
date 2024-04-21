@@ -1,0 +1,16 @@
+{
+  "name": "rock-paper-scissor",
+  "version": "1.0.0",
+  "description": "Multiplayer Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5"
+  }
+}
